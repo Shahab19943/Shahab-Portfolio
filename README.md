@@ -26,11 +26,11 @@ Welcome to my GitHub profile!
 
 👉 Download my CV here:
 
-[![Download CV](https://img.shields.io/badge/CV-Download-blue?style=for-the-badge\&logo=adobeacrobatreader)](CV.pdf)
+[![Download CV][(https://img.shields.io/badge/CV-Download-blue?style=for-the-badge\&logo=adobeacrobatreader)](https://github.com/Shahab19943/Shahab-Portfolio/blob/main/Shahab_Resume.pdf)](CV.pdf)
 
 OR
 
-📌 Direct link: [Click to view CV](CV.pdf)
+📌 Direct link: [[Click to view CV](https://github.com/Shahab19943/Shahab-Portfolio/blob/main/Shahab_Resume.pdf)](CV.pdf)
 
 ---
 
