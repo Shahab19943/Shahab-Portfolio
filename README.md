@@ -51,7 +51,9 @@ Welcome to my GitHub profile!
 ## 📫 Contact
 
 * Email: shahab.hasan94@gmail.com
-* LinkedIn: [[https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/shahab-ul-hassan-7b6063300/)
+* LinkedIn: https://www.linkedin.com/in/shahab-ul-hassan-7b6063300/
+* Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=c96uHkwAAAAJ#
+  
 
 ---
 
