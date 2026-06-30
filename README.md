@@ -26,28 +26,25 @@ Welcome to my GitHub profile!
 
 👉 Download my CV here:
 
-[![Download CV][(https://img.shields.io/badge/CV-Download-blue?style=for-the-badge\&logo=adobeacrobatreader)](https://github.com/Shahab19943/Shahab-Portfolio/blob/main/Shahab_Resume.pdf)](CV.pdf)
 
-OR
-
-📌 Direct link: [[Click to view CV](https://github.com/Shahab19943/Shahab-Portfolio/blob/main/Shahab_Resume.pdf)](CV.pdf)
+📌 link: [[Click to view CV](https://github.com/Shahab19943/Shahab-Portfolio/blob/main/Shahab_Resume.pdf)](CV.pdf)
 
 ---
 
 ## 🛠️ Skills
 
 * Python, MATLAB
-* Deep Learning (CNN, ResNet, etc.)
+* Deep Learning 
 * Medical Image Processing
-* Explainable AI (LIME, Grad-CAM variants)
+* Explainable AI
 
 ---
 
 ## 📊 Projects
 
 * Lung Cancer Classification using Deep Learning
-* ASP-LIME: Adaptive Superpixel-based LIME framework
-* Medical Image Segmentation and Interpretation
+* ASP-LIME: Adaptive Superpixel Perturbation-based LIME framework
+* Medical Image Interpretation
 
 ---
 
