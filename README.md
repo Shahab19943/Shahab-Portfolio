@@ -27,7 +27,7 @@ Welcome to my GitHub profile!
 👉 Download my CV here:
 
 
-📌 link: [[Click to view CV](https://github.com/Shahab19943/Shahab-Portfolio/blob/main/Shahab_Resume.pdf)](CV.pdf)
+📌 link: [CV (Shahab Ul Hassan)..pdf](CV.pdf)
 
 ---
 
